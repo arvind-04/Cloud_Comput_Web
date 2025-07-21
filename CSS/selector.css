@@ -1,0 +1,50 @@
+/* Universal Selector */
+*{
+
+}
+/* Type Selector */
+p{
+
+}
+/* Class Selector */
+.class{
+
+}
+/* Id Selector */
+#defin{
+
+}
+/* Atribute Selector */
+input[type="text"]{
+
+}
+
+/* Descendant Selector */
+article p{
+
+}
+/* Child Selecetor */
+ul > li{
+
+}
+/* Adjacent Sibling */
+h1 + p{
+
+}
+/* General Sibling selector */
+h2 ~ p{
+
+}
+/* pseudo class Selector */
+a:hover{
+
+}
+/* pseudo element selector */
+p::first-letter{
+    font-weight: bold;
+}
+/* Groupoing of selector */
+
+a,h1,h2{
+    
+}
